@@ -1,2 +1,2 @@
-# NXM.github.io
-博客
+# laomaodegushi.github.io
+我的小小博客
